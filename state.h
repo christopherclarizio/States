@@ -1,4 +1,4 @@
-//Christopher Clarizio CSE20311 10/28/2016
+//Christopher Clarizio
 //Interface for the class State
 
 #include <string>
