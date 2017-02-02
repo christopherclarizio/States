@@ -1,4 +1,4 @@
-//Christopher Clarizio CSe20311 10/28/2016
+//Christopher Clarizio
 //Implementation for the class State
 
 #include <iostream>
