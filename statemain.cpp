@@ -1,4 +1,4 @@
-//Christopher Clarizio CSE20311 10/28/2016
+//Christopher Clarizio
 //Driver for testing the functionality of the class State
 
 #include <iostream>
